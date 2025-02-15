@@ -9,3 +9,4 @@ word_list = ["aardvark", "baboon", "camel"]
 #  is, "Wrong" if it's not.
 this is a revision to be committed
 configure
+to be commited
